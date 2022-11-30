@@ -1,9 +1,9 @@
 # Weekly-Sales-Prediction
 
-### Goal of the project:
+#### Goal of the project:
 The goal of the project is to predict the weekly sales of Walmart stores.
 
-### Dataset 
+#### Dataset 
 The data is obtained from Kaggle competition. (https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/overview)
 Historical sales data for 45 Walmart stores located in different regions in US with the type and size of store was provided. Each store contains a number of departments. In addition, Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this competition is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data.
 
